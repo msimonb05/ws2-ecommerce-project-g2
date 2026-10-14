@@ -41,4 +41,4 @@ Sneakslab is an online sneaker store built for the way people actually shop. Bro
 
 ---
 
-> This repository is maintained by the project members, and all features were developed as a team. This project is in fulfillment of the course Web Systems and Technologies 2 at the University of Baguio - School of Information Technology.
+> This repository is maintained by the project members, and all features were developed as a team. This project is in fulfillment of the course Web Systems and Technologies 2 at the University of Baguio - School of Information Technology. For more details, visit the [About page](https://sb-ecommerce-lryp.onrender.com/about) of the website.
