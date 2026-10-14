@@ -2,11 +2,11 @@
 
 Sneakslab is an online sneaker store built for the way people actually shop. Browse 366 sneakers from top brands, from the latest drops on the homepage carousel to seasonal collections. You can narrow the catalog by brand, price and size, and every product page shows its available sizes and real reviews. Prices appear in your local currency automatically. Save favorites to your wishlist, check out quickly with saved addresses, and track every order after it ships. If you need help, the help center covers returns, shipping and order status, and live chat connects you to support right away. Behind the storefront, a complete admin back office keeps orders, promotions, stock, users and support tickets running smoothly.
 
-<center>
-<b><i>"Sakam adda sapatos mi."</i></b>
-<br>
-"We have shoes for your feet."
-</center>
+<p align="center">
+  <b><i>"Sakam adda sapatos mi."</i></b>
+  <br>
+  "We have shoes for your feet."
+</p>
 
 ## Tech Stack
 
